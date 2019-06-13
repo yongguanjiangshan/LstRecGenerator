@@ -1,0 +1,1 @@
+python get_lst_xml.py -d ..\Dataset\VOC2007_set -l voc2007.lst -c  ..\Dataset\VOC2007_set\ClassNames.txt
