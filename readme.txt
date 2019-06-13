@@ -1,1 +1,1 @@
-  This is a project for generating lst and rec files.
+  This is a project for generating lst and rec files!
